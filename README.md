@@ -27,8 +27,7 @@
 6. All the best for creating the higest score👍🏼.
 
 > [!NOTE]
-> This project is for educational purposes only.
->
+> This project is for educational purposes only.  
 > Feel free to modify and improve the code as you see fit.
 
 **Enjoy playing!🤩**
