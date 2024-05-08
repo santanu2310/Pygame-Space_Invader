@@ -1,5 +1,7 @@
 # Space Invader
 
+![A GIF of a small game clip](https://github.com/santanu2310/Pygame-Space_Invader/blob/main/demo.gif)
+
 ## This is a classic Space Invaders game built using Python and the Pygame library.
 
 ### Features:
@@ -26,6 +28,7 @@
 
 > [!NOTE]
 > This project is for educational purposes only.
+>
 > Feel free to modify and improve the code as you see fit.
 
 **Enjoy playing!🤩**
